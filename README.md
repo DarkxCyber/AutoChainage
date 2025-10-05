@@ -29,4 +29,33 @@ It allows users to quickly **calculate and label chainages (in the 0+000 format)
 1. Open **AutoCAD**.  
 2. Type `APPLOAD` in the command line.  
 3. Load the file **AutoChainage.lsp**.  
-4. Run the command by typing:  
+4. Run the command by typing:
+   CHCHK
+5. Select a polyline and click on or near it.
+6. The chainage value will appear at that point with proper rotation.
+
+---
+
+## 📁 Installation  
+- Copy **AutoChainage.lsp** into your AutoCAD support folder or any preferred directory.  
+- You can also set it to **autoload** by adding it to your `acaddoc.lsp`.
+
+---
+
+## 🧮 Example Output  
+
+Polyline selected...
+Picked point chainage: 3+45.67 m
+The text “3+45.67” will appear automatically at the picked location, aligned with the tangent of the polyline.
+
+---
+
+## License
+
+This project is licensed under the MIT License — free to use, modify, and share with attribution.
+
+---
+
+Author
+👤 Salman Faris
+
