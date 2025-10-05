@@ -30,7 +30,7 @@ It allows users to quickly **calculate and label chainages (in the 0+000 format)
 2. Type `APPLOAD` in the command line.  
 3. Load the file **AutoChainage.lsp**.  
 4. Run the command by typing:
-   CHCHK
+   `CHCHK`
 5. Select a polyline and click on or near it.
 6. The chainage value will appear at that point with proper rotation.
 
