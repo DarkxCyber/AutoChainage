@@ -40,4 +40,4 @@ It allows users to quickly **calculate and label chainages (in the 0+000 format)
 
 This project is licensed under the MIT License — free to use, modify, and share with attribution.
 
-> Developed by **Salman Faris**
+> Developed by **Salman Faris** with support from **Ajmal Venayikott** (Surveyor).
