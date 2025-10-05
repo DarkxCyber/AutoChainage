@@ -9,7 +9,7 @@
       (setq param (vlax-curve-getparamatpoint pl (vlax-curve-getclosestpointto pl pt)))
       (setq dist (vlax-curve-getdistatparam pl param))
 
-      ;; Convert to civil chainage format (0+000)
+      ;; Convert to civil chainage format (0+000.000)
       (setq km (fix (/ dist 100.0)))
       (setq m  (- dist (* km 100.0)))
       (setq ch_str (strcat (itoa km) "+" (rtos m 2 2)))
@@ -28,3 +28,4 @@
   )
   (princ)
 )
+
