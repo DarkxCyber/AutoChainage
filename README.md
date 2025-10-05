@@ -44,9 +44,9 @@ It allows users to quickly **calculate and label chainages (in the 0+000 format)
 
 ## 🧮 Example Output  
 
-Polyline selected...
-Picked point chainage: 3+45.67 m
-The text “3+45.67” will appear automatically at the picked location, aligned with the tangent of the polyline.
+- Polyline selected...
+- Picked point chainage: 3+45.67 m
+- The text “3+45.67” will appear automatically at the picked location, aligned with the tangent of the polyline.
 
 ---
 
