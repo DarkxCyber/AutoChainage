@@ -21,7 +21,7 @@ It allows users to quickly **calculate and label chainages (in the 0+000 format)
 
 ## 🧩 Command  
 
-**"CHCHK"** - Prompts the user to select a polyline and pick a point. It then displays the chainage value and places the corresponding text at that location.
+**`CHCHK`** - Prompts the user to select a polyline and pick a point. It then displays the chainage value and places the corresponding text at that location.
 
 ---
 
