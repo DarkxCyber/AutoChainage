@@ -56,6 +56,4 @@ This project is licensed under the MIT License — free to use, modify, and shar
 
 ---
 
-Author
-👤 Salman Faris
-
+> Developed by **Salmanfaris**
